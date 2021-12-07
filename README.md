@@ -6,7 +6,7 @@
 ---
 Challenge completed
 
-![6%](https://progress-bar.dev/6/?title=Done)
+![7%](https://progress-bar.dev/7/?title=Done)
 
 
 ### `Challenge days`
@@ -24,7 +24,7 @@ Challenge completed
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 06th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 07th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 07th of Coding and Reading
 
 - [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 08th of Coding and Reading
 
