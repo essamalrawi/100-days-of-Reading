@@ -6,7 +6,7 @@
 ---
 Challenge completed
 
-![18%](https://progress-bar.dev/18/?title=Done)
+![21%](https://progress-bar.dev/21/?title=Done)
 
 
 ### `Challenge days`
@@ -48,11 +48,11 @@ Challenge completed
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 18th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 19th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 19th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 20th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 20th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 21th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 21th of Coding and Reading
 
 - [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 22th of Coding and Reading
 
