@@ -6,7 +6,7 @@
 ---
 Challenge completed
 
-![32%](https://progress-bar.dev/32/?title=Done)
+![48%](https://progress-bar.dev/48/?title=Done)
 
 
 ### `Challenge days`
@@ -76,37 +76,37 @@ Challenge completed
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 32th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 33th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 33th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 34th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 34th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 35th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 35th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 36th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 36th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 37th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 37th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 38th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 38th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 39th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 39th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 40th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 40th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 41th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 41th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 42th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 42th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 43th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 43th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 44th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 44th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 45th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 45th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 46th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 46th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 47th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 47th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 48th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 48th of Coding and Reading
 
 - [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 49th of Coding and Reading
 
