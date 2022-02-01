@@ -6,7 +6,7 @@
 ---
 Challenge completed
 
-![50%](https://progress-bar.dev/50/?title=Done)
+![58%](https://progress-bar.dev/58/?title=Done)
 
 
 ### `Challenge days`
@@ -112,21 +112,21 @@ Challenge completed
 
 - [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 50th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 51th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 51th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 52th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 52th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 53th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 53th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 54th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 54th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 55th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 55th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 56th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 56th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 57th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 57th of Coding and Reading
 
-- [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 58th of Coding and Reading
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 58th of Coding and Reading
 
 - [ ] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Done` - 59th of Coding and Reading
 
